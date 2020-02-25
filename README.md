@@ -8,9 +8,9 @@ This project is for a Northeastern University Spring 2020 ECE Capstone Project.
 
 ### Team
 
-Paul Terrais
-Vicky Gianello
-Chris Gomez
-Juliette Fowler
-Grace Carroll
-Teresa Hoch
+- Paul Terrasi
+- Vicky Gianello
+- Chris Gomez
+- Juliette Fowler
+- Grace Carroll
+- Teresa Hoch
